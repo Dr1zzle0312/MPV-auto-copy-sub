@@ -1,4 +1,4 @@
-portable_config\scripts\auto-copy-subtitle.lua
+mpv\portable_config\scripts\auto-copy-subtitle.lua
 
 AI写的 主要是配合[LunaTranslator](https://github.com/HIllya51/LunaTranslator) 可以把字幕实时转成语音或者翻译
 
